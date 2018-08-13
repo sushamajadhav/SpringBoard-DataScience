@@ -1,26 +1,15 @@
-/* Welcome to the SQL mini project. For this project, you will use
-Springboard' online SQL platform, which you can log into through the
-following link:
-
-https://sql.springboard.com/
-Username: student
-Password: learn_sql@springboard
+/* Welcome to the SQL mini project.
 
 The data you need is in the "country_club" database. This database
 contains 3 tables:
     i) the "Bookings" table,
     ii) the "Facilities" table, and
     iii) the "Members" table.
+I have downloaded these table locally and created mysql database and run following queries to get answers in Mysql workbench.
 
-Note that, if you need to, you can also download these tables locally.
+Attached exported schema as Exported_schema.sql
 
-In the mini project, you'll be asked a series of questions. You can
-solve them using the platform, but for the final deliverable,
-paste the code for each solution into this script, and upload it
-to your GitHub.
-
-Before starting with the questions, feel free to take your time,
-exploring the data, and getting acquainted with the 3 tables. */
+. */
 
 
 
